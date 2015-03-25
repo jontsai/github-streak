@@ -18,6 +18,10 @@ Motivation:
 - As an engineer/entrepreneur--I love automation.
 - The quote, "Entrepeneurs work 80 hours a week so they can avoid working 40 hours a week."
 
+### Other Practical Uses
+
+- If GitHub is part of your workflow/collaboration/deployment to production, this project is a perfect tool ensure that your whole DevOps pipeline is in good order.
+
 ## Getting Started & Usage Instructions
 
 - Clone this repository
