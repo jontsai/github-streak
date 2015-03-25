@@ -1,5 +1,7 @@
 # github-streak
 
+[![Build Status](https://travis-ci.org/jontsai/github-streak.svg)](https://travis-ci.org/jontsai/github-streak)
+
 Artificially keep your GitHub streak going, and going, and going...
 
 Because it's cool to have a long GitHub streak. You know you want to have one.
