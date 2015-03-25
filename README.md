@@ -8,10 +8,21 @@ Because it's cool to have a long GitHub streak. You know you want to have one.
 
 So giddyup, star and fork it now!
 
-## Usage Instructions
+## About this Project
+
+Writeup: <http://www.jontsai.com/2015/03/25/hack-github-streaks/>
+
+Motivation:
+
+- Being diligent about slacking off.
+- As an engineer/entrepreneur--I love automation.
+- The quote, "Entrepeneurs work 80 hours a week so they can avoid working 40 hours a week."
+
+## Getting Started & Usage Instructions
 
 - Clone this repository
-- Type `make` (if you're curious, read the source code)
+- Type `make [install]` just one time on a Linux webserver that's always on, and you're set! (if you're curious, read the source code)
+- No need to do anything after that, ever again (unless you want to)
 - Recruiters and lame GitHub spiders will start contacting you
 - Profit
 
