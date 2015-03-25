@@ -3,3 +3,6 @@ install:
 
 streakify:
 	./streakify.sh
+
+test:
+	echo 'Woohoo!'

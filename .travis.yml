@@ -1,0 +1,6 @@
+language: perl
+# not really, but closet lang option to bash/shell as of time of creation
+perl:
+  - "5.18"
+
+script: make test
