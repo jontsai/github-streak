@@ -17,4 +17,11 @@ So giddyup, star and fork it now!
 
 ## How to Contribute
 
-Coming soon...
+- Fork this repository
+- Submit a pull request
+- Will add to this list...
+
+## License
+
+- MIT, see `LICENSE`
+- Created and maintained by Jonathan Tsai ([@jontsai](http://twitter.com/jontsai))
