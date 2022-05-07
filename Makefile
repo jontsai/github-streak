@@ -4,5 +4,8 @@ install:
 streakify:
 	./streakify.sh
 
+backfill:
+	./backfill.sh
+
 test:
 	echo 'Woohoo!'
