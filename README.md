@@ -32,11 +32,17 @@ Motivation:
 
 ### Catchup
 
-If the streak fails to run somehow, and your streak is broken, you can manually create a catchup commit as follows:
+If the streak fails to run somehow, and your streak is broken, you can create a catchup commit as follows:
+
+```
+./streakify.sh <YYYY-MM-DD>
+```
+
+To manually create a catchup commit:
 
 - Make a trivial change to the `.streak` file
 - Commit the change
-- Amend the commit date: `git commit --amend --date="$(date -R)"`
+- Amend the commit date: `git commit --amend --date="$(date -R MMDDhhmm YY)"`
 
 ## How to Contribute
 
