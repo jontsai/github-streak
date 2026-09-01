@@ -24,7 +24,7 @@ Motivation:
 
 ## Getting Started & Usage Instructions
 
-- Clone this repository
+- Fork this repository
 - Type `make [install]` just one time on a Linux webserver that's always on, and you're set! (if you're curious, read the source code)
 - No need to do anything after that, ever again (unless you want to)
 - Recruiters and lame GitHub spiders will start contacting you
